@@ -18,7 +18,7 @@
  (11 "ui: width-aware paragraph formatting" #f 1687800557 #f #f #f)
  (12 "code: setup unit/integration testing" #f 1687800589 #f #f #f)
  (13 "feat: cmdline args to set/override config" #f 1687800623 #f #f #f)
- (14 "ui: fix domain path display" #f 1687810872 #f #f #f)
+ (14 "ui: fix domain path display" #f 1687810872 1687879779 "hans" #f)
  (15 "ui: more robust domain path parsing" #f 1687810913 #f #f #f)
  (16 "code: reorganize repl" #f 1687811010 #f #f #f)
  (17 "feat: move tasks between domains" #f 1687811195 #f #f #f)
@@ -53,7 +53,14 @@
   1687812054
   "hans"
   #f)
- (31 "model: user/task skills/resources" #f 1687823158 #f #f #f))
+ (31 "model: user/task skills/resources" #f 1687823158 #f #f #f)
+ (32
+  "ui: option to elide repeated cells in tables"
+  #f
+  1687879873
+  1687879880
+  "hans"
+  #f))
 (("hans"
   (0 4 3 0)
   (1 2 4 0)
