@@ -6,7 +6,13 @@
  (5 "model: assigned -> started-in-workflow" #f 1687800386 #f #f #f)
  (6 "feat: username aliases in config" #f 1687800407 1687880141 "hans" #f)
  (7 "feat: config home domain for ~, startup" #f 1687800418 #f #f #f)
- (8 "feat: login to domain at last possible moment" #f 1687800438 #f #f #f)
+ (8
+  "feat: login to domain at last possible moment"
+  #f
+  1687800438
+  1687887391
+  "hans"
+  1687887393)
  (9
   "ui: summarize tasks by blocked, awaiting eval, todo, in-progress, done"
   #f
