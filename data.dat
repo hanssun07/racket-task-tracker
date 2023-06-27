@@ -4,7 +4,7 @@
  (3 "code: consolidate utils" #f 1687800295 #f #f #f)
  (4 "code: typed racket" #f 1687800371 1687812061 "hans" #f)
  (5 "model: assigned -> started-in-workflow" #f 1687800386 #f #f #f)
- (6 "feat: username aliases in config" #f 1687800407 #f #f #f)
+ (6 "feat: username aliases in config" #f 1687800407 1687880141 "hans" #f)
  (7 "feat: config home domain for ~, startup" #f 1687800418 #f #f #f)
  (8 "feat: login to domain at last possible moment" #f 1687800438 #f #f #f)
  (9
@@ -20,7 +20,7 @@
  (13 "feat: cmdline args to set/override config" #f 1687800623 #f #f #f)
  (14 "ui: fix domain path display" #f 1687810872 1687879779 "hans" #f)
  (15 "ui: more robust domain path parsing" #f 1687810913 #f #f #f)
- (16 "code: reorganize repl" #f 1687811010 #f #f #f)
+ (16 "code: reorganize repl" #f 1687811010 1687880143 "hans" #f)
  (17 "feat: move tasks between domains" #f 1687811195 #f #f #f)
  (18 "model: close tasks" #f 1687811312 #f #f #f)
  (19 "ui: domainpaths in taskids" #f 1687811342 #f #f #f)
@@ -52,7 +52,7 @@
   1687812048
   1687812054
   "hans"
-  #f)
+  1687880135)
  (31 "model: user/task skills/resources" #f 1687823158 #f #f #f)
  (32
   "ui: option to elide repeated cells in tables"
