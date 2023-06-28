@@ -74,7 +74,14 @@
   "hans"
   1687888159)
  (33 "meta: more fluent setup" #f 1687898023 #f #f #f)
- (34 "model: split userid from username" #f 1687898090 #f #f #f))
+ (34 "model: split userid from username" #f 1687898090 #f #f #f)
+ (35
+  "feat: rewrite task + eval attributes for disc, iteration"
+  "statuses\n- blocked\n  - needs eval\n    - interest/priority\n    - sufficient description?\n    - type\n- ready\n  - could use re-eval\n    - completeness, clarity of desc\n- in progress\n- done\n- closed\n\ntypes\n- exploration/discussion\n- task (default behaviour)\n- unspecified\n\ntrackers\n- days until re-eval\n\nassignment\n- multiple assignment\n- suggested assignment (by ranking after bandwith?)\n"
+  1687964061
+  #f
+  #f
+  #f))
 (("hans"
   (0 4 3 0)
   (1 2 4 0)
@@ -106,4 +113,7 @@
   (27 3 3 0)
   (28 1 3 0)
   (29 1 2 0)
-  (31 2 4 0)))
+  (31 2 4 0)
+  (33 2 4 0)
+  (34 2 4 0)
+  (35 3 3 0)))
