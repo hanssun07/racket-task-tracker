@@ -54,7 +54,13 @@
   #f)
  (24 "ui: better error, help messages" #f 1687811547 #f #f #f)
  (25 "code: better infrastructure for repl" #f 1687811713 #f #f #f)
- (26 "model: versioning + data migration for datafiles" #f 1687811770 #f #f #f)
+ (26
+  "model: versioning + data migration for datafiles"
+  #f
+  1687811770
+  1688058618
+  "hans"
+  1688059410)
  (27
   "model: multiple assignment for exploration/discussion tasks"
   #f
@@ -80,7 +86,13 @@
   "hans"
   1687888159)
  (33 "meta: more fluent setup" #f 1687898023 1688057571 "hans" 1688057866)
- (34 "model: split userid from username" #f 1687898090 #f #f #f)
+ (34
+  "model: split userid from username"
+  #f
+  1687898090
+  1688058532
+  "hans"
+  1688061696)
  (35
   "feat: rewrite task + eval attributes for disc, iteration"
   "statuses\n- blocked\n  - needs eval\n    - interest/priority\n    - sufficient description?\n    - type\n- ready\n  - could use re-eval\n    - completeness, clarity of desc\n- in progress\n- done\n- closed\n\ntypes\n- exploration/discussion\n- task (default behaviour)\n- unspecified\n\ntrackers\n- days until re-eval\n\nassignment\n- multiple assignment\n- suggested assignment (by ranking after bandwith?)\n"
