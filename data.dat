@@ -31,7 +31,13 @@
  (12 "code: setup unit/integration testing" #f 1687800589 #f #f #f)
  (13 "feat: cmdline args to set/override config" #f 1687800623 #f #f #f)
  (14 "ui: fix domain path display" #f 1687810872 1687879779 "hans" 1687888156)
- (15 "ui: more robust domain path parsing" #f 1687810913 #f #f #f)
+ (15
+  "ui: more robust domain path parsing"
+  #f
+  1687810913
+  1687996971
+  "hans"
+  1687996976)
  (16 "code: reorganize repl" #f 1687811010 1687880143 "hans" 1687887286)
  (17 "feat: move tasks between domains" #f 1687811195 #f #f #f)
  (18 "model: close tasks" #f 1687811312 #f #f #f)
