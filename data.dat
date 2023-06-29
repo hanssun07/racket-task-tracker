@@ -79,7 +79,7 @@
   1687879880
   "hans"
   1687888159)
- (33 "meta: more fluent setup" #f 1687898023 #f #f #f)
+ (33 "meta: more fluent setup" #f 1687898023 1688057571 "hans" 1688057866)
  (34 "model: split userid from username" #f 1687898090 #f #f #f)
  (35
   "feat: rewrite task + eval attributes for disc, iteration"
