@@ -4,7 +4,13 @@
  (3 "code: consolidate utils" #f 1687800295 #f #f #f)
  (4 "code: typed racket" #f 1687800371 1687812061 "hans" #f)
  (5 "model: assigned -> started-in-workflow" #f 1687800386 #f #f #f)
- (6 "feat: username aliases in config" #f 1687800407 1687880141 "hans" #f)
+ (6
+  "feat: username aliases in config"
+  #f
+  1687800407
+  1687880141
+  "hans"
+  1688139052)
  (7
   "feat: config home domain for ~, startup"
   #f
@@ -106,7 +112,8 @@
   1688137171
   #f
   #f
-  #f))
+  #f)
+ (37 "ui: display relative domain paths" #f 1688139076 #f #f #f))
 (("hans"
   (0 4 3 0)
   (1 2 4 0)
