@@ -99,6 +99,13 @@
   1687964061
   #f
   #f
+  #f)
+ (36
+  "meta: design basic QA routine for regression testing"
+  "Design a setup of datafiles, a config file, and a list\nof actions to run with checkins that we can use to test\nif things are working right.\n\nSuch a design can then be incorporated into an automatic\nscript that we just need to evaluate the output of, as\na quick testing flow to ensure new work doesn't break\nanything.\n\nAll features should be hit in this flow.\n"
+  1688137171
+  #f
+  #f
   #f))
 (("hans"
   (0 4 3 0)
@@ -134,4 +141,5 @@
   (31 2 4 0)
   (33 2 4 0)
   (34 2 4 0)
-  (35 3 3 0)))
+  (35 3 3 0)
+  (36 1 4 0)))
