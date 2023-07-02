@@ -1,29 +1,24 @@
+1
 ((0 "feat: graph work" #f 1687800247 #f #f #f)
  (1 "code: incorporate debugging script" #f 1687800255 #f #f #f)
  (2 "ui: allow unassign, undone" #f 1687800275 #f #f #f)
  (3 "code: consolidate utils" #f 1687800295 #f #f #f)
- (4 "code: typed racket" #f 1687800371 1687812061 "hans" #f)
+ (4 "code: typed racket" #f 1687800371 1688307350 0 #f)
  (5 "model: assigned -> started-in-workflow" #f 1687800386 #f #f #f)
- (6
-  "feat: username aliases in config"
-  #f
-  1687800407
-  1687880141
-  "hans"
-  1688139052)
+ (6 "feat: username aliases in config" #f 1687800407 1688307350 0 1688139052)
  (7
   "feat: config home domain for ~, startup"
   #f
   1687800418
-  1687888172
-  "hans"
+  1688307350
+  0
   1688058495)
  (8
   "feat: login to domain at last possible moment"
   #f
   1687800438
-  1687887391
-  "hans"
+  1688307350
+  0
   1687887393)
  (9
   "ui: summarize tasks by blocked, awaiting eval, todo, in-progress, done"
@@ -36,19 +31,19 @@
  (11 "ui: width-aware paragraph formatting" #f 1687800557 #f #f #f)
  (12 "code: setup unit/integration testing" #f 1687800589 #f #f #f)
  (13 "feat: cmdline args to set/override config" #f 1687800623 #f #f #f)
- (14 "ui: fix domain path display" #f 1687810872 1687879779 "hans" 1687888156)
+ (14 "ui: fix domain path display" #f 1687810872 1688307350 0 1687888156)
  (15
   "ui: more robust domain path parsing"
   #f
   1687810913
-  1687996971
-  "hans"
+  1688307350
+  0
   1687996976)
- (16 "code: reorganize repl" #f 1687811010 1687880143 "hans" 1687887286)
+ (16 "code: reorganize repl" #f 1687811010 1688307350 0 1687887286)
  (17 "feat: move tasks between domains" #f 1687811195 #f #f #f)
  (18 "model: close tasks" #f 1687811312 #f #f #f)
  (19 "ui: domainpaths in taskids" #f 1687811342 #f #f #f)
- (20 "ui: multiple taskids in one-line ed" #f 1687811370 1687888185 "hans" #f)
+ (20 "ui: multiple taskids in one-line ed" #f 1687811370 1688307350 0 #f)
  (21 "feat: domain interop for ls + config" #f 1687811403 #f #f #f)
  (22 "feat: domain interop for eval (+ config)" #f 1687811474 #f #f #f)
  (23
@@ -64,8 +59,8 @@
   "model: versioning + data migration for datafiles"
   #f
   1687811770
-  1688058618
-  "hans"
+  1688307350
+  0
   1688059410)
  (27
   "model: multiple assignment for exploration/discussion tasks"
@@ -80,25 +75,19 @@
   "ui: derive swapfiles robustly (blind . prepend fails for folders)"
   #f
   1687812048
-  1687812054
-  "hans"
+  1688307350
+  0
   1687880135)
  (31 "model: user/task skills/resources" #f 1687823158 #f #f #f)
  (32
   "ui: option to elide repeated cells in tables"
   #f
   1687879873
-  1687879880
-  "hans"
+  1688307350
+  0
   1687888159)
- (33 "meta: more fluent setup" #f 1687898023 1688057571 "hans" 1688057866)
- (34
-  "model: split userid from username"
-  #f
-  1687898090
-  1688058532
-  "hans"
-  1688061696)
+ (33 "meta: more fluent setup" #f 1687898023 1688307350 0 1688057866)
+ (34 "model: split userid from username" #f 1687898090 1688307350 0 1688061696)
  (35
   "feat: rewrite task + eval attributes for disc, iteration"
   "statuses\n- blocked\n  - needs eval\n    - interest/priority\n    - sufficient description?\n    - type\n- ready\n  - could use re-eval\n    - completeness, clarity of desc\n- in progress\n- done\n- closed\n\ntypes\n- exploration/discussion\n- task (default behaviour)\n- unspecified\n\ntrackers\n- days until re-eval\n\nassignment\n- multiple assignment\n- suggested assignment (by ranking after bandwith?)\n"
@@ -116,14 +105,23 @@
  (37 "ui: display relative domain paths" #f 1688139076 #f #f #f)
  (38 "model: uncertainty, complexity evaluations" #f 1688164113 #f #f #f)
  (39 "model: order tasks by creation time in datafile" #f 1688172360 #f #f #f)
- (40
-  "feat: eval adding desc to needs-refinement tasks"
+ (40 "feat: eval adding desc to needs-refinement tasks" #f 1688172466 #f #f #f)
+ (41
+  "code: for/collect-hash util to collect multiple entries into a list of items"
   #f
-  1688172466
+  1688307476
+  #f
+  #f
+  #f)
+ (42
+  "model: back-compatible versioning using write-append log and keyed datafile"
+  #f
+  1688307550
   #f
   #f
   #f))
-(("hans"
+((0
+  "hans"
   (0 4 3 0)
   (1 2 4 0)
   (2 2 2 0)
