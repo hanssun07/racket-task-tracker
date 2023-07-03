@@ -102,7 +102,7 @@
   #f
   #f
   #f)
- (37 "ui: display relative domain paths" #f 1688139076 #f #f #f)
+ (37 "ui: display relative domain paths" #f 1688139076 1688414771 0 #f)
  (38 "model: uncertainty, complexity evaluations" #f 1688164113 #f #f #f)
  (39 "model: order tasks by creation time in datafile" #f 1688172360 #f #f #f)
  (40 "feat: eval adding desc to needs-refinement tasks" #f 1688172466 #f #f #f)
@@ -131,7 +131,11 @@
   1688412431
   #f
   #f
-  #f))
+  #f)
+ (49 "ui: ls -r for reverse order" #f 1688414490 #f #f #f)
+ (50 "ui: ls -R for recursive over domains" #f 1688414525 #f #f #f)
+ (51 "ui: ls should allow taking domains as argument" #f 1688414541 #f #f #f)
+ (52 "code: separate user, internal errors" #f 1688414673 #f #f #f))
 ((0
   "hans"
   (0 4 3 0)
@@ -144,7 +148,7 @@
   (7 3 2 0)
   (8 3 3 0)
   (9 2 2 0)
-  (10 4 3 0)
+  (10 3 2 1)
   (11 2 2 0)
   (12 1 4 0)
   (13 1 1 0)
