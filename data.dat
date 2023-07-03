@@ -119,6 +119,18 @@
   1688307550
   #f
   #f
+  #f)
+ (43 "code: typed: remodel repl typing" #f 1688411415 #f #f #f)
+ (44 "code: typed: split out typed, untyped utilities" #f 1688411430 #f #f #f)
+ (45 "code: typed: consistency in fallible lookup" #f 1688411469 #f #f #f)
+ (46 "code: typed: consistency using with-casts" #f 1688411497 #f #f #f)
+ (47 "code: typed: rework typing for model/query-tasks" #f 1688411550 #f #f #f)
+ (48
+  "code: typed: rework mutability model for occurrence typing in structs"
+  #f
+  1688412431
+  #f
+  #f
   #f))
 ((0
   "hans"
