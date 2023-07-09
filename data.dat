@@ -135,7 +135,14 @@
  (49 "ui: ls -r for reverse order" #f 1688414490 #f #f #f)
  (50 "ui: ls -R for recursive over domains" #f 1688414525 #f #f #f)
  (51 "ui: ls should allow taking domains as argument" #f 1688414541 #f #f #f)
- (52 "code: separate user, internal errors" #f 1688414673 #f #f #f))
+ (52 "code: separate user, internal errors" #f 1688414673 #f #f #f)
+ (53
+  "ux: Default to nano editor for editing tasks"
+  "Currently if no EDITOR variable has been set it just screams without a good reason why\nLet's change that. Make it open nano by default if the user hasn't specified an editor.\n"
+  1688871149
+  #f
+  #f
+  #f))
 ((0
   "hans"
   (0 4 3 0)
@@ -172,4 +179,5 @@
   (33 2 4 0)
   (34 2 4 0)
   (35 3 3 0)
-  (36 1 4 0)))
+  (36 1 4 0))
+ (1 "Andoiii" (0 2 3 1) (1 2 2 0)))
