@@ -3,7 +3,13 @@
  (1 "code: incorporate debugging script" #f 1687800255 #f #f #f)
  (2 "ui: allow unassign, undone" #f 1687800275 #f #f #f)
  (3 "code: consolidate utils" #f 1687800295 #f #f #f)
- (4 "code: typed racket" #f 1687800371 1688307350 0 #f)
+ (4
+  "code: typed racket"
+  "type annotations + dug according to them, but not typed/racket\n\ntyped/racket is too inflexible for current usage\n"
+  1687800371
+  1688307350
+  0
+  #f)
  (5 "model: assigned -> started-in-workflow" #f 1687800386 #f #f #f)
  (6 "feat: username aliases in config" #f 1687800407 1688307350 0 1688139052)
  (7
