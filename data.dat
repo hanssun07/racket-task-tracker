@@ -148,7 +148,8 @@
   1688871149
   #f
   #f
-  #f))
+  #f)
+ (54 "ux: add \"h\" as an additional shortcut to help" #f 1689088659 #f #f #f))
 ((0
   "hans"
   (0 4 3 0)
