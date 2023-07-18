@@ -1,6 +1,6 @@
 1
 ((0 "feat: graph work" #f 1687800247 #f #f #f)
- (1 "code: incorporate debugging script" #f 1687800255 1689714653 0 #f)
+ (1 "code: incorporate debugging script" #f 1687800255 1689714653 0 1689720078)
  (2 "ui: allow unassign, undone" #f 1687800275 #f #f #f)
  (3 "code: consolidate utils" #f 1687800295 #f #f #f)
  (4
@@ -107,7 +107,7 @@
   1688137171
   1689714650
   0
-  #f)
+  1689720084)
  (37 "ui: display relative domain paths" #f 1688139076 1688414771 0 #f)
  (38 "model: uncertainty, complexity evaluations" #f 1688164113 #f #f #f)
  (39 "model: order tasks by creation time in datafile" #f 1688172360 #f #f #f)
@@ -174,11 +174,11 @@
   #f
   #f)
  (54 "ux: add \"h\" as an additional shortcut to help" #f 1689088659 #f #f #f)
- (55 "code: type annotations, programmatic docs" #f 1689714428 #f #f #f)
+ (55 "code: type annotations, programmatic docs" #f 1689714428 1689720067 0 #f)
  (56 "model: lazy load domains" #f 1689714479 #f #f #f)
  (57 "feat: config modularity" #f 1689714501 #f #f #f)
  (58 "code: move date/time logic to gregor library" #f 1689714781 #f #f #f)
- (59 "meta: automatic basic documentation" #f 1689719269 #f #f #f)
+ (59 "meta: automatic basic documentation" #f 1689719269 1689720070 0 #f)
  (60 "autodoc: cache + index records for faster search" #f 1689719381 #f #f #f)
  (61 "autodoc: fuzzy search" #f 1689719392 #f #f #f)
  (62
@@ -225,5 +225,25 @@
   (33 2 4 0)
   (34 2 4 0)
   (35 3 3 0)
-  (36 1 4 0))
+  (36 1 4 0)
+  (38 2 3 1)
+  (39 2 1 0)
+  (40 2 3 0)
+  (41 3 2 0)
+  (42 3 2 1)
+  (49 1 1 0)
+  (50 1 1 0)
+  (51 1 2 0)
+  (52 2 2 0)
+  (53 3 4 0)
+  (54 2 3 0)
+  (55 4 4 0)
+  (56 2 2 0)
+  (57 3 3 0)
+  (58 4 3 0)
+  (59 4 4 0)
+  (60 4 2 0)
+  (61 3 2 0)
+  (62 3 3 0)
+  (63 2 3 0))
  (1 "Andoiii" (0 2 3 1) (1 2 2 0)))
