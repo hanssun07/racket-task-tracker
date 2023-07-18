@@ -1,6 +1,6 @@
 1
 ((0 "feat: graph work" #f 1687800247 #f #f #f)
- (1 "code: incorporate debugging script" #f 1687800255 #f #f #f)
+ (1 "code: incorporate debugging script" #f 1687800255 1689714653 0 #f)
  (2 "ui: allow unassign, undone" #f 1687800275 #f #f #f)
  (3 "code: consolidate utils" #f 1687800295 #f #f #f)
  (4
@@ -9,7 +9,7 @@
   1687800371
   1688307350
   0
-  #f)
+  1689714407)
  (5 "model: assigned -> started-in-workflow" #f 1687800386 #f #f #f)
  (6 "feat: username aliases in config" #f 1687800407 1688307350 0 1688139052)
  (7
@@ -105,8 +105,8 @@
   "meta: design basic QA routine for regression testing"
   "Design a setup of datafiles, a config file, and a list\nof actions to run with checkins that we can use to test\nif things are working right.\n\nSuch a design can then be incorporated into an automatic\nscript that we just need to evaluate the output of, as\na quick testing flow to ensure new work doesn't break\nanything.\n\nAll features should be hit in this flow.\n"
   1688137171
-  #f
-  #f
+  1689714650
+  0
   #f)
  (37 "ui: display relative domain paths" #f 1688139076 1688414771 0 #f)
  (38 "model: uncertainty, complexity evaluations" #f 1688164113 #f #f #f)
@@ -126,18 +126,42 @@
   #f
   #f
   #f)
- (43 "code: typed: remodel repl typing" #f 1688411415 #f #f #f)
- (44 "code: typed: split out typed, untyped utilities" #f 1688411430 #f #f #f)
- (45 "code: typed: consistency in fallible lookup" #f 1688411469 #f #f #f)
- (46 "code: typed: consistency using with-casts" #f 1688411497 #f #f #f)
- (47 "code: typed: rework typing for model/query-tasks" #f 1688411550 #f #f #f)
+ (43 "code: typed: remodel repl typing" #f 1688411415 1689714355 0 1689714356)
+ (44
+  "code: typed: split out typed, untyped utilities"
+  #f
+  1688411430
+  1689714358
+  0
+  1689714364)
+ (45
+  "code: typed: consistency in fallible lookup"
+  #f
+  1688411469
+  1689714367
+  0
+  1689714367)
+ (46
+  "code: typed: consistency using with-casts"
+  #f
+  1688411497
+  1689714318
+  0
+  1689714319)
+ (47
+  "code: typed: rework typing for model/query-tasks"
+  #f
+  1688411550
+  1689714341
+  0
+  1689714343)
  (48
   "code: typed: rework mutability model for occurrence typing in structs"
   #f
   1688412431
-  #f
-  #f
-  #f)
+  1689714335
+  0
+  1689714336)
  (49 "ui: ls -r for reverse order" #f 1688414490 #f #f #f)
  (50 "ui: ls -R for recursive over domains" #f 1688414525 #f #f #f)
  (51 "ui: ls should allow taking domains as argument" #f 1688414541 #f #f #f)
@@ -149,7 +173,22 @@
   #f
   #f
   #f)
- (54 "ux: add \"h\" as an additional shortcut to help" #f 1689088659 #f #f #f))
+ (54 "ux: add \"h\" as an additional shortcut to help" #f 1689088659 #f #f #f)
+ (55 "code: type annotations, programmatic docs" #f 1689714428 #f #f #f)
+ (56 "model: lazy load domains" #f 1689714479 #f #f #f)
+ (57 "feat: config modularity" #f 1689714501 #f #f #f)
+ (58 "code: move date/time logic to gregor library" #f 1689714781 #f #f #f)
+ (59 "meta: automatic basic documentation" #f 1689719269 #f #f #f)
+ (60 "autodoc: cache + index records for faster search" #f 1689719381 #f #f #f)
+ (61 "autodoc: fuzzy search" #f 1689719392 #f #f #f)
+ (62
+  "autodoc: also show related records in expanding types"
+  #f
+  1689719503
+  #f
+  #f
+  #f)
+ (63 "autodoc: catalogue library functions" #f 1689719528 #f #f #f))
 ((0
   "hans"
   (0 4 3 0)
