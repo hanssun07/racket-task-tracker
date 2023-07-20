@@ -170,8 +170,8 @@
   "ux: Default to nano editor for editing tasks"
   "Currently if no EDITOR variable has been set it just screams without a good reason why\nLet's change that. Make it open nano by default if the user hasn't specified an editor.\n"
   1688871149
-  #f
-  #f
+  1689876579
+  0
   #f)
  (54 "ux: add \"h\" as an additional shortcut to help" #f 1689088659 #f #f #f)
  (55
@@ -183,7 +183,13 @@
   1689786085)
  (56 "model: lazy load domains" #f 1689714479 #f #f #f)
  (57 "feat: config modularity" #f 1689714501 #f #f #f)
- (58 "code: move date/time logic to gregor library" #f 1689714781 #f #f #f)
+ (58
+  "code: move date/time logic to gregor library"
+  #f
+  1689714781
+  1689876579
+  0
+  #f)
  (59
   "meta: automatic basic documentation"
   #f
