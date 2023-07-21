@@ -184,7 +184,7 @@
   1688871149
   1689876579
   0
-  #f)
+  1689953483)
  (54 "ux: add \"h\" as an additional shortcut to help" #f 1689088659 #f #f #f)
  (55
   "code: type annotations, programmatic docs"
@@ -218,7 +218,8 @@
   #f
   #f
   #f)
- (63 "autodoc: catalogue library functions" #f 1689719528 #f #f #f))
+ (63 "autodoc: catalogue library functions" #f 1689719528 #f #f #f)
+ (64 "model: task attributes in hash" #f 1689956154 1689956157 0 1689956160))
 ((0
   "hans"
   (0 4 3 0)
