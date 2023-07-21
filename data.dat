@@ -10,7 +10,7 @@
   1688307350
   0
   1689714407)
- (5 "model: assigned -> started-in-workflow" #f 1687800386 #f #f #f)
+ (5 "model: assigned -> started-in-workflow" #f 1687800386 1689952448 0 #f)
  (6 "feat: username aliases in config" #f 1687800407 1688307350 0 1688139052)
  (7
   "feat: config home domain for ~, startup"
@@ -47,7 +47,7 @@
   1687996976)
  (16 "code: reorganize repl" #f 1687811010 1688307350 0 1687887286)
  (17 "feat: move tasks between domains" #f 1687811195 #f #f #f)
- (18 "model: close tasks" #f 1687811312 #f #f #f)
+ (18 "model: close tasks" #f 1687811312 1689952448 0 #f)
  (19 "ui: domainpaths in taskids" #f 1687811342 #f #f #f)
  (20
   "ui: multiple taskids in one-line ed"
@@ -116,7 +116,13 @@
   1689720084)
  (37 "ui: display relative domain paths" #f 1688139076 1688414771 0 1689876610)
  (38 "model: uncertainty, complexity evaluations" #f 1688164113 #f #f #f)
- (39 "model: order tasks by creation time in datafile" #f 1688172360 #f #f #f)
+ (39
+  "model: order tasks by creation time in datafile"
+  #f
+  1688172360
+  1689952448
+  0
+  #f)
  (40 "feat: eval adding desc to needs-refinement tasks" #f 1688172466 #f #f #f)
  (41
   "code: for/collect-hash util to collect multiple entries into a list of items"
@@ -195,7 +201,7 @@
   1689714781
   1689876579
   0
-  #f)
+  1689952415)
  (59
   "meta: automatic basic documentation"
   #f
