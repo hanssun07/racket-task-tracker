@@ -1,231 +1,418 @@
-1
-((0 "feat: graph work" #f 1687800247 #f #f #f)
- (1 "code: incorporate debugging script" #f 1687800255 1689714653 0 1689720078)
- (2 "ui: allow unassign, undone" #f 1687800275 #f #f #f)
- (3 "code: consolidate utils" #f 1687800295 #f #f #f)
+3
+((0
+  "2023-06-26T17:24:07Z"
+  "feat: graph work"
+  #f
+  ((ready "2023-06-26T17:24:07Z")))
+ (1
+  "2023-06-26T17:24:15Z"
+  "code: incorporate debugging script"
+  #f
+  ((assigned 0)
+   (done "2023-07-18T22:41:18Z")
+   (ready "2023-06-26T17:24:15Z")
+   (started "2023-07-18T21:10:53Z")))
+ (2
+  "2023-06-26T17:24:35Z"
+  "ui: allow unassign, undone"
+  #f
+  ((ready "2023-06-26T17:24:35Z")))
+ (3
+  "2023-06-26T17:24:55Z"
+  "code: consolidate utils"
+  #f
+  ((ready "2023-06-26T17:24:55Z")))
  (4
+  "2023-06-26T17:26:11Z"
   "code: typed racket"
   "type annotations + dug according to them, but not typed/racket\n\ntyped/racket is too inflexible for current usage\n"
-  1687800371
-  1688307350
-  0
-  1689714407)
+  ((assigned 0)
+   (done "2023-07-18T21:06:47Z")
+   (ready "2023-06-26T17:26:11Z")
+   (started "2023-07-02T14:15:50Z")))
  (5
+  "2023-06-26T17:26:26Z"
   "model: assigned -> started-in-workflow"
   #f
-  1687800386
-  1689952448
-  0
-  1690329673)
- (6 "feat: username aliases in config" #f 1687800407 1688307350 0 1688139052)
+  ((assigned 0)
+   (done "2023-07-26T00:01:13Z")
+   (ready "2023-06-26T17:26:26Z")
+   (started "2023-07-21T15:14:08Z")))
+ (6
+  "2023-06-26T17:26:47Z"
+  "feat: username aliases in config"
+  #f
+  ((assigned 0)
+   (done "2023-06-30T15:30:52Z")
+   (ready "2023-06-26T17:26:47Z")
+   (started "2023-07-02T14:15:50Z")))
  (7
+  "2023-06-26T17:26:58Z"
   "feat: config home domain for ~, startup"
   #f
-  1687800418
-  1688307350
-  0
-  1688058495)
+  ((assigned 0)
+   (done "2023-06-29T17:08:15Z")
+   (ready "2023-06-26T17:26:58Z")
+   (started "2023-07-02T14:15:50Z")))
  (8
+  "2023-06-26T17:27:18Z"
   "feat: login to domain at last possible moment"
   #f
-  1687800438
-  1688307350
-  0
-  1687887393)
+  ((assigned 0)
+   (done "2023-06-27T17:36:33Z")
+   (ready "2023-06-26T17:27:18Z")
+   (started "2023-07-02T14:15:50Z")))
  (9
+  "2023-06-26T17:28:43Z"
   "ui: summarize tasks by blocked, awaiting eval, todo, in-progress, done"
   #f
-  1687800523
+  ((ready "2023-06-26T17:28:43Z")))
+ (10
+  "2023-06-26T17:29:09Z"
+  "ui: width-aware table formatting"
   #f
+  ((ready "2023-06-26T17:29:09Z")))
+ (11
+  "2023-06-26T17:29:17Z"
+  "ui: width-aware paragraph formatting"
   #f
-  #f)
- (10 "ui: width-aware table formatting" #f 1687800549 #f #f #f)
- (11 "ui: width-aware paragraph formatting" #f 1687800557 #f #f #f)
- (12 "code: setup unit/integration testing" #f 1687800589 #f #f #f)
- (13 "feat: cmdline args to set/override config" #f 1687800623 #f #f #f)
- (14 "ui: fix domain path display" #f 1687810872 1688307350 0 1687888156)
+  ((ready "2023-06-26T17:29:17Z")))
+ (12
+  "2023-06-26T17:29:49Z"
+  "code: setup unit/integration testing"
+  #f
+  ((ready "2023-06-26T17:29:49Z")))
+ (13
+  "2023-06-26T17:30:23Z"
+  "feat: cmdline args to set/override config"
+  #f
+  ((ready "2023-06-26T17:30:23Z")))
+ (14
+  "2023-06-26T20:21:12Z"
+  "ui: fix domain path display"
+  #f
+  ((assigned 0)
+   (done "2023-06-27T17:49:16Z")
+   (ready "2023-06-26T20:21:12Z")
+   (started "2023-07-02T14:15:50Z")))
  (15
+  "2023-06-26T20:21:53Z"
   "ui: more robust domain path parsing"
   #f
-  1687810913
-  1688307350
-  0
-  1687996976)
- (16 "code: reorganize repl" #f 1687811010 1688307350 0 1687887286)
- (17 "feat: move tasks between domains" #f 1687811195 #f #f #f)
- (18 "model: close tasks" #f 1687811312 1689952448 0 #f)
- (19 "ui: domainpaths in taskids" #f 1687811342 #f #f #f)
+  ((assigned 0)
+   (done "2023-06-29T00:02:56Z")
+   (ready "2023-06-26T20:21:53Z")
+   (started "2023-07-02T14:15:50Z")))
+ (16
+  "2023-06-26T20:23:30Z"
+  "code: reorganize repl"
+  #f
+  ((assigned 0)
+   (done "2023-06-27T17:34:46Z")
+   (ready "2023-06-26T20:23:30Z")
+   (started "2023-07-02T14:15:50Z")))
+ (17
+  "2023-06-26T20:26:35Z"
+  "feat: move tasks between domains"
+  #f
+  ((ready "2023-06-26T20:26:35Z")))
+ (18
+  "2023-06-26T20:28:32Z"
+  "model: close tasks"
+  #f
+  ((assigned 0)
+   (ready "2023-06-26T20:28:32Z")
+   (started "2023-07-21T15:14:08Z")))
+ (19
+  "2023-06-26T20:29:02Z"
+  "ui: domainpaths in taskids"
+  #f
+  ((ready "2023-06-26T20:29:02Z")))
  (20
+  "2023-06-26T20:29:30Z"
   "ui: multiple taskids in one-line ed"
   #f
-  1687811370
-  1688307350
-  0
-  1689876610)
- (21 "feat: domain interop for ls + config" #f 1687811403 #f #f #f)
- (22 "feat: domain interop for eval (+ config)" #f 1687811474 #f #f #f)
+  ((assigned 0)
+   (done "2023-07-20T18:10:10Z")
+   (ready "2023-06-26T20:29:30Z")
+   (started "2023-07-02T14:15:50Z")))
+ (21
+  "2023-06-26T20:30:03Z"
+  "feat: domain interop for ls + config"
+  #f
+  ((ready "2023-06-26T20:30:03Z")))
+ (22
+  "2023-06-26T20:31:14Z"
+  "feat: domain interop for eval (+ config)"
+  #f
+  ((ready "2023-06-26T20:31:14Z")))
  (23
+  "2023-06-26T20:32:07Z"
   "feat: inherit (reference) + readonly domains in config"
   #f
-  1687811527
+  ((ready "2023-06-26T20:32:07Z")))
+ (24
+  "2023-06-26T20:32:27Z"
+  "ui: better error, help messages"
   #f
+  ((ready "2023-06-26T20:32:27Z")))
+ (25
+  "2023-06-26T20:35:13Z"
+  "code: better infrastructure for repl"
   #f
-  #f)
- (24 "ui: better error, help messages" #f 1687811547 #f #f #f)
- (25 "code: better infrastructure for repl" #f 1687811713 #f #f #f)
+  ((ready "2023-06-26T20:35:13Z")))
  (26
+  "2023-06-26T20:36:10Z"
   "model: versioning + data migration for datafiles"
   #f
-  1687811770
-  1688307350
-  0
-  1688059410)
+  ((assigned 0)
+   (done "2023-06-29T17:23:30Z")
+   (ready "2023-06-26T20:36:10Z")
+   (started "2023-07-02T14:15:50Z")))
  (27
+  "2023-06-26T20:37:00Z"
   "model: multiple assignment for exploration/discussion tasks"
   #f
-  1687811820
+  ((ready "2023-06-26T20:37:00Z")))
+ (28
+  "2023-06-26T20:37:27Z"
+  "ui: reorganize flags for ls"
   #f
+  ((ready "2023-06-26T20:37:27Z")))
+ (29
+  "2023-06-26T20:37:36Z"
+  "ui: text/regex search for ls"
   #f
-  #f)
- (28 "ui: reorganize flags for ls" #f 1687811847 #f #f #f)
- (29 "ui: text/regex search for ls" #f 1687811856 #f #f #f)
+  ((ready "2023-06-26T20:37:36Z")))
  (30
+  "2023-06-26T20:40:48Z"
   "ui: derive swapfiles robustly (blind . prepend fails for folders)"
   #f
-  1687812048
-  1688307350
-  0
-  1687880135)
- (31 "model: user/task skills/resources" #f 1687823158 #f #f #f)
+  ((assigned 0)
+   (done "2023-06-27T15:35:35Z")
+   (ready "2023-06-26T20:40:48Z")
+   (started "2023-07-02T14:15:50Z")))
+ (31
+  "2023-06-26T23:45:58Z"
+  "model: user/task skills/resources"
+  #f
+  ((ready "2023-06-26T23:45:58Z")))
  (32
+  "2023-06-27T15:31:13Z"
   "ui: option to elide repeated cells in tables"
   #f
-  1687879873
-  1688307350
-  0
-  1687888159)
- (33 "meta: more fluent setup" #f 1687898023 1688307350 0 1688057866)
- (34 "model: split userid from username" #f 1687898090 1688307350 0 1688061696)
+  ((assigned 0)
+   (done "2023-06-27T17:49:19Z")
+   (ready "2023-06-27T15:31:13Z")
+   (started "2023-07-02T14:15:50Z")))
+ (33
+  "2023-06-27T20:33:43Z"
+  "meta: more fluent setup"
+  #f
+  ((assigned 0)
+   (done "2023-06-29T16:57:46Z")
+   (ready "2023-06-27T20:33:43Z")
+   (started "2023-07-02T14:15:50Z")))
+ (34
+  "2023-06-27T20:34:50Z"
+  "model: split userid from username"
+  #f
+  ((assigned 0)
+   (done "2023-06-29T18:01:36Z")
+   (ready "2023-06-27T20:34:50Z")
+   (started "2023-07-02T14:15:50Z")))
  (35
+  "2023-06-28T14:54:21Z"
   "feat: rewrite task + eval attributes for disc, iteration"
   "statuses\n- blocked\n  - needs eval\n    - interest/priority\n    - sufficient description?\n    - type\n- ready\n  - could use re-eval\n    - completeness, clarity of desc\n- in progress\n- done\n- closed\n\ntypes\n- exploration/discussion\n- task (default behaviour)\n- unspecified\n\ntrackers\n- days until re-eval\n\nassignment\n- multiple assignment\n- suggested assignment (by ranking after bandwith?)\n"
-  1687964061
-  #f
-  #f
-  #f)
+  ((ready "2023-06-28T14:54:21Z")))
  (36
+  "2023-06-30T14:59:31Z"
   "meta: design basic QA routine for regression testing"
   "Design a setup of datafiles, a config file, and a list\nof actions to run with checkins that we can use to test\nif things are working right.\n\nSuch a design can then be incorporated into an automatic\nscript that we just need to evaluate the output of, as\na quick testing flow to ensure new work doesn't break\nanything.\n\nAll features should be hit in this flow.\n"
-  1688137171
-  1689714650
-  0
-  1689720084)
- (37 "ui: display relative domain paths" #f 1688139076 1688414771 0 1689876610)
- (38 "model: uncertainty, complexity evaluations" #f 1688164113 #f #f #f)
+  ((assigned 0)
+   (done "2023-07-18T22:41:24Z")
+   (ready "2023-06-30T14:59:31Z")
+   (started "2023-07-18T21:10:50Z")))
+ (37
+  "2023-06-30T15:31:16Z"
+  "ui: display relative domain paths"
+  #f
+  ((assigned 0)
+   (done "2023-07-20T18:10:10Z")
+   (ready "2023-06-30T15:31:16Z")
+   (started "2023-07-03T20:06:11Z")))
+ (38
+  "2023-06-30T22:28:33Z"
+  "model: uncertainty, complexity evaluations"
+  #f
+  ((ready "2023-06-30T22:28:33Z")))
  (39
+  "2023-07-01T00:46:00Z"
   "model: order tasks by creation time in datafile"
   #f
-  1688172360
-  1689952448
-  0
-  1690329685)
- (40 "feat: eval adding desc to needs-refinement tasks" #f 1688172466 #f #f #f)
+  ((assigned 0)
+   (done "2023-07-26T00:01:25Z")
+   (ready "2023-07-01T00:46:00Z")
+   (started "2023-07-21T15:14:08Z")))
+ (40
+  "2023-07-01T00:47:46Z"
+  "feat: eval adding desc to needs-refinement tasks"
+  #f
+  ((ready "2023-07-01T00:47:46Z")))
  (41
+  "2023-07-02T14:17:56Z"
   "code: for/collect-hash util to collect multiple entries into a list of items"
   #f
-  1688307476
-  #f
-  #f
-  #f)
+  ((ready "2023-07-02T14:17:56Z")))
  (42
+  "2023-07-02T14:19:10Z"
   "model: back-compatible versioning using write-append log and keyed datafile"
   #f
-  1688307550
+  ((ready "2023-07-02T14:19:10Z")))
+ (43
+  "2023-07-03T19:10:15Z"
+  "code: typed: remodel repl typing"
   #f
-  #f
-  #f)
- (43 "code: typed: remodel repl typing" #f 1688411415 1689714355 0 1689714356)
+  ((assigned 0)
+   (done "2023-07-18T21:05:56Z")
+   (ready "2023-07-03T19:10:15Z")
+   (started "2023-07-18T21:05:55Z")))
  (44
+  "2023-07-03T19:10:30Z"
   "code: typed: split out typed, untyped utilities"
   #f
-  1688411430
-  1689714358
-  0
-  1689714364)
+  ((assigned 0)
+   (done "2023-07-18T21:06:04Z")
+   (ready "2023-07-03T19:10:30Z")
+   (started "2023-07-18T21:05:58Z")))
  (45
+  "2023-07-03T19:11:09Z"
   "code: typed: consistency in fallible lookup"
   #f
-  1688411469
-  1689714367
-  0
-  1689714367)
+  ((assigned 0)
+   (done "2023-07-18T21:06:07Z")
+   (ready "2023-07-03T19:11:09Z")
+   (started "2023-07-18T21:06:07Z")))
  (46
+  "2023-07-03T19:11:37Z"
   "code: typed: consistency using with-casts"
   #f
-  1688411497
-  1689714318
-  0
-  1689714319)
+  ((assigned 0)
+   (done "2023-07-18T21:05:19Z")
+   (ready "2023-07-03T19:11:37Z")
+   (started "2023-07-18T21:05:18Z")))
  (47
+  "2023-07-03T19:12:30Z"
   "code: typed: rework typing for model/query-tasks"
   #f
-  1688411550
-  1689714341
-  0
-  1689714343)
+  ((assigned 0)
+   (done "2023-07-18T21:05:43Z")
+   (ready "2023-07-03T19:12:30Z")
+   (started "2023-07-18T21:05:41Z")))
  (48
+  "2023-07-03T19:27:11Z"
   "code: typed: rework mutability model for occurrence typing in structs"
   #f
-  1688412431
-  1689714335
-  0
-  1689714336)
- (49 "ui: ls -r for reverse order" #f 1688414490 #f #f #f)
- (50 "ui: ls -R for recursive over domains" #f 1688414525 #f #f #f)
- (51 "ui: ls should allow taking domains as argument" #f 1688414541 #f #f #f)
- (52 "code: separate user, internal errors" #f 1688414673 #f #f #f)
+  ((assigned 0)
+   (done "2023-07-18T21:05:36Z")
+   (ready "2023-07-03T19:27:11Z")
+   (started "2023-07-18T21:05:35Z")))
+ (49
+  "2023-07-03T20:01:30Z"
+  "ui: ls -r for reverse order"
+  #f
+  ((ready "2023-07-03T20:01:30Z")))
+ (50
+  "2023-07-03T20:02:05Z"
+  "ui: ls -R for recursive over domains"
+  #f
+  ((ready "2023-07-03T20:02:05Z")))
+ (51
+  "2023-07-03T20:02:21Z"
+  "ui: ls should allow taking domains as argument"
+  #f
+  ((ready "2023-07-03T20:02:21Z")))
+ (52
+  "2023-07-03T20:04:33Z"
+  "code: separate user, internal errors"
+  #f
+  ((ready "2023-07-03T20:04:33Z")))
  (53
+  "2023-07-09T02:52:29Z"
   "ux: Default to nano editor for editing tasks"
   "Currently if no EDITOR variable has been set it just screams without a good reason why\nLet's change that. Make it open nano by default if the user hasn't specified an editor.\n"
-  1688871149
-  1689876579
-  0
-  1689953483)
- (54 "ux: add \"h\" as an additional shortcut to help" #f 1689088659 #f #f #f)
+  ((assigned 0)
+   (done "2023-07-21T15:31:23Z")
+   (ready "2023-07-09T02:52:29Z")
+   (started "2023-07-20T18:09:39Z")))
+ (54
+  "2023-07-11T15:17:39Z"
+  "ux: add \"h\" as an additional shortcut to help"
+  #f
+  ((ready "2023-07-11T15:17:39Z")))
  (55
+  "2023-07-18T21:07:08Z"
   "code: type annotations, programmatic docs"
   #f
-  1689714428
-  1689720067
-  0
-  1689786085)
- (56 "model: lazy load domains" #f 1689714479 #f #f #f)
- (57 "feat: config modularity" #f 1689714501 #f #f #f)
+  ((assigned 0)
+   (done "2023-07-19T17:01:25Z")
+   (ready "2023-07-18T21:07:08Z")
+   (started "2023-07-18T22:41:07Z")))
+ (56
+  "2023-07-18T21:07:59Z"
+  "model: lazy load domains"
+  #f
+  ((ready "2023-07-18T21:07:59Z")))
+ (57
+  "2023-07-18T21:08:21Z"
+  "feat: config modularity"
+  #f
+  ((ready "2023-07-18T21:08:21Z")))
  (58
+  "2023-07-18T21:13:01Z"
   "code: move date/time logic to gregor library"
   #f
-  1689714781
-  1689876579
-  0
-  1689952415)
+  ((assigned 0)
+   (done "2023-07-21T15:13:35Z")
+   (ready "2023-07-18T21:13:01Z")
+   (started "2023-07-20T18:09:39Z")))
  (59
+  "2023-07-18T22:27:49Z"
   "meta: automatic basic documentation"
   #f
-  1689719269
-  1689720070
-  0
-  1689786087)
- (60 "autodoc: cache + index records for faster search" #f 1689719381 #f #f #f)
- (61 "autodoc: fuzzy search" #f 1689719392 #f #f #f)
+  ((assigned 0)
+   (done "2023-07-19T17:01:27Z")
+   (ready "2023-07-18T22:27:49Z")
+   (started "2023-07-18T22:41:10Z")))
+ (60
+  "2023-07-18T22:29:41Z"
+  "autodoc: cache + index records for faster search"
+  #f
+  ((ready "2023-07-18T22:29:41Z")))
+ (61
+  "2023-07-18T22:29:52Z"
+  "autodoc: fuzzy search"
+  #f
+  ((ready "2023-07-18T22:29:52Z")))
  (62
+  "2023-07-18T22:31:43Z"
   "autodoc: also show related records in expanding types"
   #f
-  1689719503
+  ((ready "2023-07-18T22:31:43Z")))
+ (63
+  "2023-07-18T22:32:08Z"
+  "autodoc: catalogue library functions"
   #f
+  ((ready "2023-07-18T22:32:08Z")))
+ (64
+  "2023-07-21T16:15:54Z"
+  "model: task attributes in hash"
   #f
-  #f)
- (63 "autodoc: catalogue library functions" #f 1689719528 #f #f #f)
- (64 "model: task attributes in hash" #f 1689956154 1689956157 0 1689956160))
+  ((assigned 0)
+   (done "2023-07-21T16:16:00Z")
+   (ready "2023-07-21T16:15:54Z")
+   (started "2023-07-21T16:15:57Z"))))
 ((0
   "hans"
   (0 4 3 0)
