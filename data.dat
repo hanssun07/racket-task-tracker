@@ -3,7 +3,7 @@
   "2023-06-26T17:24:07Z"
   "feat: graph work"
   #f
-  ((ready "2023-06-26T17:24:07Z")))
+  ((assigned 0) (ready "2023-06-26T17:24:07Z")))
  (1
   "2023-06-26T17:24:15Z"
   "code: incorporate debugging script"
@@ -121,6 +121,7 @@
   "model: close tasks"
   #f
   ((assigned 0)
+   (done "2023-07-27T14:51:44.494038818Z")
    (ready "2023-06-26T20:28:32Z")
    (started "2023-07-21T15:14:08Z")))
  (19
