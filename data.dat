@@ -3,7 +3,9 @@
   "2023-06-26T17:24:07Z"
   "feat: graph work"
   #f
-  ((assigned 0) (ready "2023-06-26T17:24:07Z")))
+  ((assigned 0)
+   (ready "2023-06-26T17:24:07Z")
+   (started "2023-07-27T16:29:35.926939941Z")))
  (1
   "2023-06-26T17:24:15Z"
   "code: incorporate debugging script"
@@ -146,7 +148,7 @@
   "2023-06-26T20:31:14Z"
   "feat: domain interop for eval (+ config)"
   #f
-  ((ready "2023-06-26T20:31:14Z")))
+  ((assigned 0) (ready "2023-06-26T20:31:14Z")))
  (23
   "2023-06-26T20:32:07Z"
   "feat: inherit (reference) + readonly domains in config"
@@ -174,7 +176,7 @@
   "2023-06-26T20:37:00Z"
   "model: multiple assignment for exploration/discussion tasks"
   #f
-  ((ready "2023-06-26T20:37:00Z")))
+  ((closed "2023-07-27T16:30:06.179335205Z") (ready "2023-06-26T20:37:00Z")))
  (28
   "2023-06-26T20:37:27Z"
   "ui: reorganize flags for ls"
@@ -197,7 +199,7 @@
   "2023-06-26T23:45:58Z"
   "model: user/task skills/resources"
   #f
-  ((ready "2023-06-26T23:45:58Z")))
+  ((assigned 0) (ready "2023-06-26T23:45:58Z")))
  (32
   "2023-06-27T15:31:13Z"
   "ui: option to elide repeated cells in tables"
@@ -226,7 +228,7 @@
   "2023-06-28T14:54:21Z"
   "feat: rewrite task + eval attributes for disc, iteration"
   "statuses\n- blocked\n  - needs eval\n    - interest/priority\n    - sufficient description?\n    - type\n- ready\n  - could use re-eval\n    - completeness, clarity of desc\n- in progress\n- done\n- closed\n\ntypes\n- exploration/discussion\n- task (default behaviour)\n- unspecified\n\ntrackers\n- days until re-eval\n\nassignment\n- multiple assignment\n- suggested assignment (by ranking after bandwith?)\n"
-  ((ready "2023-06-28T14:54:21Z")))
+  ((assigned 0) (ready "2023-06-28T14:54:21Z")))
  (36
   "2023-06-30T14:59:31Z"
   "meta: design basic QA routine for regression testing"
@@ -270,7 +272,7 @@
   "2023-07-02T14:19:10Z"
   "model: back-compatible versioning using write-append log and keyed datafile"
   #f
-  ((ready "2023-07-02T14:19:10Z")))
+  ((assigned 0) (ready "2023-07-02T14:19:10Z")))
  (43
   "2023-07-03T19:10:15Z"
   "code: typed: remodel repl typing"
@@ -364,12 +366,12 @@
   "2023-07-18T21:07:59Z"
   "model: lazy load domains"
   #f
-  ((ready "2023-07-18T21:07:59Z")))
+  ((assigned 0) (ready "2023-07-18T21:07:59Z")))
  (57
   "2023-07-18T21:08:21Z"
   "feat: config modularity"
   #f
-  ((ready "2023-07-18T21:08:21Z")))
+  ((assigned 0) (ready "2023-07-18T21:08:21Z")))
  (58
   "2023-07-18T21:13:01Z"
   "code: move date/time logic to gregor library"
@@ -418,7 +420,9 @@
   "2023-07-27T15:25:50.313783691Z"
   "perf: speed up or lazy datum->moment"
   #f
-  ((ready "2023-07-27T15:25:50.313783691Z"))))
+  ((assigned 0)
+   (ready "2023-07-27T15:25:50.313783691Z")
+   (started "2023-07-27T16:29:25.729288818Z"))))
 ((0
   "hans"
   (0 4 3 0)
