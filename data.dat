@@ -427,7 +427,17 @@
   "2023-07-27T16:43:04.708022217Z"
   "code: move relevant hashes to data/skip-list"
   #f
-  ((assigned 0) (ready "2023-07-27T16:43:04.708022217Z"))))
+  ((assigned 0) (ready "2023-07-27T16:43:04.708022217Z")))
+ (67
+  "2023-07-29T13:58:04.492191895Z"
+  "ui: stratify priority index by task status"
+  "in-progress > mine > ready > blocked > done > closed\n"
+  ((ready "2023-07-29T13:58:04.492191895Z")))
+ (68
+  "2023-07-29T13:59:17.737130615Z"
+  "fix: reload fails"
+  #f
+  ((ready "2023-07-29T13:59:17.737130615Z"))))
 ((0
   "hans"
   (0 4 3 0)
@@ -484,5 +494,7 @@
   (60 4 2 0)
   (61 3 2 0)
   (62 3 3 0)
-  (63 2 3 0))
+  (63 2 3 0)
+  (67 4 4 0)
+  (68 4 4 0))
  (1 "Andoiii" (0 2 3 1) (1 2 2 0)))
