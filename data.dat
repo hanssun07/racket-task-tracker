@@ -421,6 +421,7 @@
   "perf: speed up or lazy datum->moment"
   #f
   ((assigned 0)
+   (done "2023-07-30T17:37:35.499963379Z")
    (ready "2023-07-27T15:25:50.313783691Z")
    (started "2023-07-27T16:29:25.729288818Z")))
  (66
@@ -432,17 +433,30 @@
   "2023-07-29T13:58:04.492191895Z"
   "ui: stratify priority index by task status"
   "in-progress > mine > ready > blocked > done > closed\n"
-  ((ready "2023-07-29T13:58:04.492191895Z")))
+  ((assigned 0)
+   (done "2023-07-30T17:35:02.699802734Z")
+   (ready "2023-07-29T13:58:04.492191895Z")))
  (68
   "2023-07-29T13:59:17.737130615Z"
   "fix: reload fails"
   #f
-  ((ready "2023-07-29T13:59:17.737130615Z")))
+  ((assigned 0)
+   (done "2023-07-30T17:35:02.699903564Z")
+   (ready "2023-07-29T13:59:17.737130615Z")))
  (69
   "2023-07-29T14:03:42.801922607Z"
   "model: factor eval logic to eligible tasks, then filter by user"
   #f
-  ((ready "2023-07-29T14:03:42.801922607Z"))))
+  ((assigned 0)
+   (ready "2023-07-29T14:03:42.801922607Z")
+   (started "2023-07-30T17:37:06.108101807Z")))
+ (70
+  "2023-07-30T17:36:38.571837891Z"
+  "code: factor out summary into grabbing task information (model) and displaying it (ui) for use elsewhere"
+  #f
+  ((assigned 0)
+   (ready "2023-07-30T17:36:38.571837891Z")
+   (started "2023-07-30T17:37:06.10821167Z"))))
 ((0
   "hans"
   (0 4 3 0)
@@ -502,5 +516,6 @@
   (63 2 3 0)
   (67 4 4 0)
   (68 4 4 0)
-  (69 4 4 0))
+  (69 4 4 0)
+  (70 3 4 0))
  (1 "Andoiii" (0 2 3 1) (1 2 2 0)))
