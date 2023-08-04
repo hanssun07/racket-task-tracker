@@ -455,6 +455,7 @@
   "code: factor out summary into grabbing task information (model) and displaying it (ui) for use elsewhere"
   #f
   ((assigned 0)
+   (done "2023-08-04T18:24:58.301610596Z")
    (ready "2023-07-30T17:36:38.571837891Z")
    (started "2023-07-30T17:37:06.10821167Z")))
  (71
