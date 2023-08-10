@@ -1,554 +1,572 @@
-3
-((0
+4
+((7546fa1c-7341-4fb0-b894-aaaebb12b422
+  0
   "2023-06-26T17:24:07Z"
   "feat: graph work"
   #f
-  ((assigned 0)
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
    (ready "2023-06-26T17:24:07Z")
    (started "2023-07-27T16:29:35.926939941Z")))
- (1
+ (02f57c77-226c-46ef-a856-f99bd6c537f1
+  1
   "2023-06-26T17:24:15Z"
   "code: incorporate debugging script"
   #f
-  ((assigned 0)
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
    (done "2023-07-18T22:41:18Z")
    (ready "2023-06-26T17:24:15Z")
    (started "2023-07-18T21:10:53Z")))
- (2
+ (64cb7cd2-4beb-4f28-b276-a4c5df1f9a34
+  2
   "2023-06-26T17:24:35Z"
   "ui: allow unassign, undone"
   #f
   ((ready "2023-06-26T17:24:35Z")))
- (3
+ (17c31570-e2c3-4dab-a89e-0468017331ab
+  3
   "2023-06-26T17:24:55Z"
   "code: consolidate utils"
   #f
   ((ready "2023-06-26T17:24:55Z")))
- (4
+ (4df29242-f296-4be9-931e-d59a46b74af2
+  4
   "2023-06-26T17:26:11Z"
   "code: typed racket"
   "type annotations + dug according to them, but not typed/racket\n\ntyped/racket is too inflexible for current usage\n"
-  ((assigned 0)
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
    (done "2023-07-18T21:06:47Z")
    (ready "2023-06-26T17:26:11Z")
    (started "2023-07-02T14:15:50Z")))
- (5
+ (6e766572-9f6a-44a0-887b-37968c5d872c
+  5
   "2023-06-26T17:26:26Z"
   "model: assigned -> started-in-workflow"
   #f
-  ((assigned 0)
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
    (done "2023-07-26T00:01:13Z")
    (ready "2023-06-26T17:26:26Z")
    (started "2023-07-21T15:14:08Z")))
- (6
+ (c445107a-0c5a-4b4a-9fc0-eac97eec79b6
+  6
   "2023-06-26T17:26:47Z"
   "feat: username aliases in config"
   #f
-  ((assigned 0)
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
    (done "2023-06-30T15:30:52Z")
    (ready "2023-06-26T17:26:47Z")
    (started "2023-07-02T14:15:50Z")))
- (7
+ (7eb8985d-abc4-47a8-abeb-ac97fcd85ff4
+  7
   "2023-06-26T17:26:58Z"
   "feat: config home domain for ~, startup"
   #f
-  ((assigned 0)
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
    (done "2023-06-29T17:08:15Z")
    (ready "2023-06-26T17:26:58Z")
    (started "2023-07-02T14:15:50Z")))
- (8
+ (d6f802cd-07d2-4bc1-bd91-6fcf9c38a327
+  8
   "2023-06-26T17:27:18Z"
   "feat: login to domain at last possible moment"
   #f
-  ((assigned 0)
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
    (done "2023-06-27T17:36:33Z")
    (ready "2023-06-26T17:27:18Z")
    (started "2023-07-02T14:15:50Z")))
- (9
+ (72558780-aaad-447d-9c5c-35eaf194e79c
+  9
   "2023-06-26T17:28:43Z"
   "ui: summarize tasks by blocked, awaiting eval, todo, in-progress, done"
   #f
   ((ready "2023-06-26T17:28:43Z")))
- (10
+ (085bf084-a1e3-465f-9fe4-869ba4ea8d34
+  10
   "2023-06-26T17:29:09Z"
   "ui: width-aware table formatting"
   #f
   ((ready "2023-06-26T17:29:09Z")))
- (11
+ (d43d475f-acbd-4b03-a450-4902e45e3ff0
+  11
   "2023-06-26T17:29:17Z"
   "ui: width-aware paragraph formatting"
   #f
   ((ready "2023-06-26T17:29:17Z")))
- (12
+ (079ed77f-c48f-41b9-9d0b-e8885102dd19
+  12
   "2023-06-26T17:29:49Z"
   "code: setup unit/integration testing"
   #f
   ((ready "2023-06-26T17:29:49Z")))
- (13
+ (ae6a6c76-0bdf-473b-83be-10f46b3a5387
+  13
   "2023-06-26T17:30:23Z"
   "feat: cmdline args to set/override config"
   #f
   ((ready "2023-06-26T17:30:23Z")))
- (14
+ (404f5741-58f3-45c5-b8ce-81760380568b
+  14
   "2023-06-26T20:21:12Z"
   "ui: fix domain path display"
   #f
-  ((assigned 0)
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
    (done "2023-06-27T17:49:16Z")
    (ready "2023-06-26T20:21:12Z")
    (started "2023-07-02T14:15:50Z")))
- (15
+ (bf4370a3-5c9f-4241-882b-7729f5b6f9d6
+  15
   "2023-06-26T20:21:53Z"
   "ui: more robust domain path parsing"
   #f
-  ((assigned 0)
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
    (done "2023-06-29T00:02:56Z")
    (ready "2023-06-26T20:21:53Z")
    (started "2023-07-02T14:15:50Z")))
- (16
+ (b97fd1ce-52bd-453f-8b35-8caf0c30b55a
+  16
   "2023-06-26T20:23:30Z"
   "code: reorganize repl"
   #f
-  ((assigned 0)
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
    (done "2023-06-27T17:34:46Z")
    (ready "2023-06-26T20:23:30Z")
    (started "2023-07-02T14:15:50Z")))
- (17
+ (0b85e081-bc12-4bb6-abbf-3882f9bcc854
+  17
   "2023-06-26T20:26:35Z"
   "feat: move tasks between domains"
   #f
   ((ready "2023-06-26T20:26:35Z")))
- (18
+ (3da916a0-c341-474e-9d71-6604530ac216
+  18
   "2023-06-26T20:28:32Z"
   "model: close tasks"
   #f
-  ((assigned 0)
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
    (done "2023-07-27T14:51:44.494038818Z")
    (ready "2023-06-26T20:28:32Z")
    (started "2023-07-21T15:14:08Z")))
- (19
+ (58a5e7df-cf78-401d-a4b9-2defb60d2777
+  19
   "2023-06-26T20:29:02Z"
   "ui: domainpaths in taskids"
   #f
   ((ready "2023-06-26T20:29:02Z")))
- (20
+ (1829c173-f451-4953-8fe4-56b46e39f75c
+  20
   "2023-06-26T20:29:30Z"
   "ui: multiple taskids in one-line ed"
   #f
-  ((assigned 0)
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
    (done "2023-07-20T18:10:10Z")
    (ready "2023-06-26T20:29:30Z")
    (started "2023-07-02T14:15:50Z")))
- (21
+ (fe37c7f9-9347-4b28-a0fd-7f3fe4bef36c
+  21
   "2023-06-26T20:30:03Z"
   "feat: domain interop for ls + config"
   #f
   ((ready "2023-06-26T20:30:03Z")))
- (22
+ (451bfe2c-9a15-4453-befd-c881290eab63
+  22
   "2023-06-26T20:31:14Z"
   "feat: domain interop for eval (+ config)"
   #f
-  ((assigned 0) (ready "2023-06-26T20:31:14Z")))
- (23
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
+   (ready "2023-06-26T20:31:14Z")))
+ (de9a134b-6b67-47ac-b395-8e5008964f2a
+  23
   "2023-06-26T20:32:07Z"
   "feat: inherit (reference) + readonly domains in config"
   #f
   ((ready "2023-06-26T20:32:07Z")))
- (24
+ (267512cc-5715-4eec-847d-3052b1ffa084
+  24
   "2023-06-26T20:32:27Z"
   "ui: better error, help messages"
   #f
   ((ready "2023-06-26T20:32:27Z")))
- (25
+ (65e8401f-9cfe-4f00-a7af-e25347021a71
+  25
   "2023-06-26T20:35:13Z"
   "code: better infrastructure for repl"
   #f
   ((ready "2023-06-26T20:35:13Z")))
- (26
+ (63c464a1-4eea-4a0d-89bc-51c85421ad07
+  26
   "2023-06-26T20:36:10Z"
   "model: versioning + data migration for datafiles"
   #f
-  ((assigned 0)
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
    (done "2023-06-29T17:23:30Z")
    (ready "2023-06-26T20:36:10Z")
    (started "2023-07-02T14:15:50Z")))
- (27
+ (6ff73e68-f3e3-4cd8-ab7a-8c288fe624f6
+  27
   "2023-06-26T20:37:00Z"
   "model: multiple assignment for exploration/discussion tasks"
   #f
   ((closed "2023-07-27T16:30:06.179335205Z") (ready "2023-06-26T20:37:00Z")))
- (28
+ (eb4d0c7c-800d-40b7-b84d-a5add24ba159
+  28
   "2023-06-26T20:37:27Z"
   "ui: reorganize flags for ls"
   #f
   ((ready "2023-06-26T20:37:27Z")))
- (29
+ (e7ad00c5-44c7-447b-86a6-75cf4bbd0b6e
+  29
   "2023-06-26T20:37:36Z"
   "ui: text/regex search for ls"
   #f
   ((ready "2023-06-26T20:37:36Z")))
- (30
+ (40843fa9-27c9-465f-a9fd-9a012aec890b
+  30
   "2023-06-26T20:40:48Z"
   "ui: derive swapfiles robustly (blind . prepend fails for folders)"
   #f
-  ((assigned 0)
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
    (done "2023-06-27T15:35:35Z")
    (ready "2023-06-26T20:40:48Z")
    (started "2023-07-02T14:15:50Z")))
- (31
+ (24a37b88-53e9-495a-bb3a-1122981c00b4
+  31
   "2023-06-26T23:45:58Z"
   "model: user/task skills/resources"
   #f
-  ((assigned 0) (ready "2023-06-26T23:45:58Z")))
- (32
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
+   (ready "2023-06-26T23:45:58Z")))
+ (7ef26157-8461-4c85-9f9a-7975d9b553ab
+  32
   "2023-06-27T15:31:13Z"
   "ui: option to elide repeated cells in tables"
   #f
-  ((assigned 0)
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
    (done "2023-06-27T17:49:19Z")
    (ready "2023-06-27T15:31:13Z")
    (started "2023-07-02T14:15:50Z")))
- (33
+ (8f2ab532-8fef-4998-84e6-4ec21f938437
+  33
   "2023-06-27T20:33:43Z"
   "meta: more fluent setup"
   #f
-  ((assigned 0)
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
    (done "2023-06-29T16:57:46Z")
    (ready "2023-06-27T20:33:43Z")
    (started "2023-07-02T14:15:50Z")))
- (34
+ (4f392a4f-d262-4394-b680-f6e5e188a1df
+  34
   "2023-06-27T20:34:50Z"
   "model: split userid from username"
   #f
-  ((assigned 0)
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
    (done "2023-06-29T18:01:36Z")
    (ready "2023-06-27T20:34:50Z")
    (started "2023-07-02T14:15:50Z")))
- (35
+ (6edc7b87-9456-4097-b74e-76f9cf97f5e0
+  35
   "2023-06-28T14:54:21Z"
   "feat: rewrite task + eval attributes for disc, iteration"
   "statuses\n- blocked\n  - needs eval\n    - interest/priority\n    - sufficient description?\n    - type\n- ready\n  - could use re-eval\n    - completeness, clarity of desc\n- in progress\n- done\n- closed\n\ntypes\n- exploration/discussion\n- task (default behaviour)\n- unspecified\n\ntrackers\n- days until re-eval\n\nassignment\n- multiple assignment\n- suggested assignment (by ranking after bandwith?)\n"
-  ((assigned 0) (ready "2023-06-28T14:54:21Z")))
- (36
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
+   (ready "2023-06-28T14:54:21Z")))
+ (b2f69b8f-3203-47b5-9c50-a1b1dd05b37b
+  36
   "2023-06-30T14:59:31Z"
   "meta: design basic QA routine for regression testing"
   "Design a setup of datafiles, a config file, and a list\nof actions to run with checkins that we can use to test\nif things are working right.\n\nSuch a design can then be incorporated into an automatic\nscript that we just need to evaluate the output of, as\na quick testing flow to ensure new work doesn't break\nanything.\n\nAll features should be hit in this flow.\n"
-  ((assigned 0)
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
    (done "2023-07-18T22:41:24Z")
    (ready "2023-06-30T14:59:31Z")
    (started "2023-07-18T21:10:50Z")))
- (37
+ (ec9e2646-756f-480a-9777-1a69d67e2726
+  37
   "2023-06-30T15:31:16Z"
   "ui: display relative domain paths"
   #f
-  ((assigned 0)
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
    (done "2023-07-20T18:10:10Z")
    (ready "2023-06-30T15:31:16Z")
    (started "2023-07-03T20:06:11Z")))
- (38
+ (2b607229-29ad-435e-9f3d-1528c2f40877
+  38
   "2023-06-30T22:28:33Z"
   "model: uncertainty, complexity evaluations"
   #f
   ((ready "2023-06-30T22:28:33Z")))
- (39
+ (78087268-f730-45af-bc97-53f1dbd03428
+  39
   "2023-07-01T00:46:00Z"
   "model: order tasks by creation time in datafile"
   #f
-  ((assigned 0)
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
    (done "2023-07-26T00:01:25Z")
    (ready "2023-07-01T00:46:00Z")
    (started "2023-07-21T15:14:08Z")))
- (40
+ (eebca97c-2712-4720-82fb-122639f12777
+  40
   "2023-07-01T00:47:46Z"
   "feat: eval adding desc to needs-refinement tasks"
   #f
   ((ready "2023-07-01T00:47:46Z")))
- (41
+ (3f853cf8-a4fa-414b-950f-bba00298b482
+  41
   "2023-07-02T14:17:56Z"
   "code: for/collect-hash util to collect multiple entries into a list of items"
   #f
   ((ready "2023-07-02T14:17:56Z")))
- (42
+ (a8f39662-6245-42b4-bbe9-c0d293d1f6f1
+  42
   "2023-07-02T14:19:10Z"
   "model: back-compatible versioning using write-append log and keyed datafile"
   #f
-  ((assigned 0) (ready "2023-07-02T14:19:10Z")))
- (43
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
+   (ready "2023-07-02T14:19:10Z")))
+ (fb2ed233-33a8-4727-bc20-22da79aa22e3
+  43
   "2023-07-03T19:10:15Z"
   "code: typed: remodel repl typing"
   #f
-  ((assigned 0)
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
    (done "2023-07-18T21:05:56Z")
    (ready "2023-07-03T19:10:15Z")
    (started "2023-07-18T21:05:55Z")))
- (44
+ (0bb912cc-b343-441a-b5f1-b25912461a3a
+  44
   "2023-07-03T19:10:30Z"
   "code: typed: split out typed, untyped utilities"
   #f
-  ((assigned 0)
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
    (done "2023-07-18T21:06:04Z")
    (ready "2023-07-03T19:10:30Z")
    (started "2023-07-18T21:05:58Z")))
- (45
+ (6f34e160-6ee4-4ef2-9902-f668865338eb
+  45
   "2023-07-03T19:11:09Z"
   "code: typed: consistency in fallible lookup"
   #f
-  ((assigned 0)
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
    (done "2023-07-18T21:06:07Z")
    (ready "2023-07-03T19:11:09Z")
    (started "2023-07-18T21:06:07Z")))
- (46
+ (c63e4ee3-0189-49c0-897c-705a72470f7d
+  46
   "2023-07-03T19:11:37Z"
   "code: typed: consistency using with-casts"
   #f
-  ((assigned 0)
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
    (done "2023-07-18T21:05:19Z")
    (ready "2023-07-03T19:11:37Z")
    (started "2023-07-18T21:05:18Z")))
- (47
+ (34583e9e-98ab-4846-809f-3a6644262857
+  47
   "2023-07-03T19:12:30Z"
   "code: typed: rework typing for model/query-tasks"
   #f
-  ((assigned 0)
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
    (done "2023-07-18T21:05:43Z")
    (ready "2023-07-03T19:12:30Z")
    (started "2023-07-18T21:05:41Z")))
- (48
+ (916a408b-eacf-4a1f-8b78-ded36b5f948b
+  48
   "2023-07-03T19:27:11Z"
   "code: typed: rework mutability model for occurrence typing in structs"
   #f
-  ((assigned 0)
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
    (done "2023-07-18T21:05:36Z")
    (ready "2023-07-03T19:27:11Z")
    (started "2023-07-18T21:05:35Z")))
- (49
+ (6888f632-bcb9-4eb2-ab33-0895eaf67cb5
+  49
   "2023-07-03T20:01:30Z"
   "ui: ls -r for reverse order"
   #f
   ((ready "2023-07-03T20:01:30Z")))
- (50
+ (ac562e83-f0a4-499b-be0a-f278e515903b
+  50
   "2023-07-03T20:02:05Z"
   "ui: ls -R for recursive over domains"
   #f
   ((ready "2023-07-03T20:02:05Z")))
- (51
+ (7f35f0fb-df7a-4b1d-b263-515be315fcf6
+  51
   "2023-07-03T20:02:21Z"
   "ui: ls should allow taking domains as argument"
   #f
   ((ready "2023-07-03T20:02:21Z")))
- (52
+ (22bd08eb-b3e7-4047-a0a9-e58f31f180f8
+  52
   "2023-07-03T20:04:33Z"
   "code: separate user, internal errors"
   #f
   ((ready "2023-07-03T20:04:33Z")))
- (53
+ (62a081c8-f3c8-482d-8911-ad1db297b1cf
+  53
   "2023-07-09T02:52:29Z"
   "ux: Default to nano editor for editing tasks"
   "Currently if no EDITOR variable has been set it just screams without a good reason why\nLet's change that. Make it open nano by default if the user hasn't specified an editor.\n"
-  ((assigned 0)
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
    (done "2023-07-21T15:31:23Z")
    (ready "2023-07-09T02:52:29Z")
    (started "2023-07-20T18:09:39Z")))
- (54
+ (29e570a6-6224-4722-ba53-bb98840f3f67
+  54
   "2023-07-11T15:17:39Z"
   "ux: add \"h\" as an additional shortcut to help"
   #f
   ((ready "2023-07-11T15:17:39Z")))
- (55
+ (aa1efc65-e3c5-474b-ad99-7082f9224284
+  55
   "2023-07-18T21:07:08Z"
   "code: type annotations, programmatic docs"
   #f
-  ((assigned 0)
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
    (done "2023-07-19T17:01:25Z")
    (ready "2023-07-18T21:07:08Z")
    (started "2023-07-18T22:41:07Z")))
- (56
+ (6ece4aa5-53b9-466c-b01a-7712655de327
+  56
   "2023-07-18T21:07:59Z"
   "model: lazy load domains"
   #f
-  ((assigned 0) (ready "2023-07-18T21:07:59Z")))
- (57
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
+   (ready "2023-07-18T21:07:59Z")))
+ (77cb7276-5518-4371-b61b-cf21060bbaab
+  57
   "2023-07-18T21:08:21Z"
   "feat: config modularity"
   #f
-  ((assigned 0) (ready "2023-07-18T21:08:21Z")))
- (58
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
+   (ready "2023-07-18T21:08:21Z")))
+ (808f4b77-03e6-43b5-a4e2-f2a87574d955
+  58
   "2023-07-18T21:13:01Z"
   "code: move date/time logic to gregor library"
   #f
-  ((assigned 0)
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
    (done "2023-07-21T15:13:35Z")
    (ready "2023-07-18T21:13:01Z")
    (started "2023-07-20T18:09:39Z")))
- (59
+ (e0101d5b-3983-468f-b6ff-2201e0cc3c69
+  59
   "2023-07-18T22:27:49Z"
   "meta: automatic basic documentation"
   #f
-  ((assigned 0)
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
    (done "2023-07-19T17:01:27Z")
    (ready "2023-07-18T22:27:49Z")
    (started "2023-07-18T22:41:10Z")))
- (60
+ (254d8455-5f80-4599-a206-bc5e5ca4024e
+  60
   "2023-07-18T22:29:41Z"
   "autodoc: cache + index records for faster search"
   #f
   ((ready "2023-07-18T22:29:41Z")))
- (61
+ (5ce68710-243b-4ab9-abd5-05d0ed5d5967
+  61
   "2023-07-18T22:29:52Z"
   "autodoc: fuzzy search"
   #f
   ((ready "2023-07-18T22:29:52Z")))
- (62
+ (780d92ed-5a56-43d2-b3cf-51fff5e73dab
+  62
   "2023-07-18T22:31:43Z"
   "autodoc: also show related records in expanding types"
   #f
   ((ready "2023-07-18T22:31:43Z")))
- (63
+ (164d0f87-5be8-4a54-a1e9-b20e91553a47
+  63
   "2023-07-18T22:32:08Z"
   "autodoc: catalogue library functions"
   #f
   ((ready "2023-07-18T22:32:08Z")))
- (64
+ (db209c47-a361-4773-9dfc-589bc587bc2b
+  64
   "2023-07-21T16:15:54Z"
   "model: task attributes in hash"
   #f
-  ((assigned 0)
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
    (done "2023-07-21T16:16:00Z")
    (ready "2023-07-21T16:15:54Z")
    (started "2023-07-21T16:15:57Z")))
- (65
+ (3c5a58a2-8dc0-473f-9c1d-505c20527097
+  65
   "2023-07-27T15:25:50.313783691Z"
   "perf: speed up or lazy datum->moment"
   #f
-  ((assigned 0)
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
    (done "2023-07-30T17:37:35.499963379Z")
    (ready "2023-07-27T15:25:50.313783691Z")
    (started "2023-07-27T16:29:25.729288818Z")))
- (66
+ (be14b7f5-b931-4c70-91be-f005e3873032
+  66
   "2023-07-27T16:43:04.708022217Z"
   "code: move relevant hashes to data/skip-list"
   #f
-  ((assigned 0) (ready "2023-07-27T16:43:04.708022217Z")))
- (67
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
+   (ready "2023-07-27T16:43:04.708022217Z")))
+ (c6813d50-0047-4272-9ca8-7ed720bf2207
+  67
   "2023-07-29T13:58:04.492191895Z"
   "ui: stratify priority index by task status"
   "in-progress > mine > ready > blocked > done > closed\n"
-  ((assigned 0)
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
    (done "2023-07-30T17:35:02.699802734Z")
    (ready "2023-07-29T13:58:04.492191895Z")))
- (68
+ (bf2a81c7-caf4-4628-9e56-fbc6c6339f6e
+  68
   "2023-07-29T13:59:17.737130615Z"
   "fix: reload fails"
   #f
-  ((assigned 0)
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
    (done "2023-07-30T17:35:02.699903564Z")
    (ready "2023-07-29T13:59:17.737130615Z")))
- (69
+ (f1e057ea-fe26-4b3d-8d78-ca2707b5efaa
+  69
   "2023-07-29T14:03:42.801922607Z"
   "model: factor eval logic to eligible tasks, then filter by user"
   #f
-  ((assigned 0)
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
    (ready "2023-07-29T14:03:42.801922607Z")
    (started "2023-07-30T17:37:06.108101807Z")))
- (70
+ (ac3c78ef-70b2-4fa6-a5ed-d40da29226f7
+  70
   "2023-07-30T17:36:38.571837891Z"
   "code: factor out summary into grabbing task information (model) and displaying it (ui) for use elsewhere"
   #f
-  ((assigned 0)
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
    (done "2023-08-04T18:24:58.301610596Z")
    (ready "2023-07-30T17:36:38.571837891Z")
    (started "2023-07-30T17:37:06.10821167Z")))
- (71
+ (02b02718-47f4-4969-8fe8-f816ad29dc21
+  71
   "2023-08-02T00:48:45.228885254Z"
   "model+fix: unique unchanging ids for tasks"
   #f
-  ((assigned 0)
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
    (ready "2023-08-02T00:48:45.228885254Z")
    (started "2023-08-08T16:36:21.3460625Z")))
- (72
+ (659f483a-e94a-46a7-8280-7f2a3325388c
+  72
   "2023-08-04T16:31:35.982567383Z"
   "ui+code: build infrastructure for output formatting"
   #f
-  ((assigned 0)
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
    (ready "2023-08-04T16:31:35.982567383Z")
    (started "2023-08-04T16:32:39.939765137Z")))
- (73
+ (c3b9a799-6d3a-4219-9766-0dfce650b31f
+  73
   "2023-08-04T16:32:21.734737305Z"
   "ui+code: commandline reader, parser a la shell, racket/cmdline"
   #f
-  ((assigned 0) (ready "2023-08-04T16:32:21.734737305Z")))
- (74
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
+   (ready "2023-08-04T16:32:21.734737305Z")))
+ (311517e4-6a57-4866-96a8-db255853d7cd
+  74
   "2023-08-09T00:39:42.607249512Z"
   "ui: rework q/q!/commit semantics: q should fail if dirty instead of writing"
   #f
-  ((assigned 0)
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
    (ready "2023-08-09T00:39:42.607249512Z")
    (started "2023-08-09T00:40:15.543733887Z"))))
-((0
-  "hans"
-  (0 4 3 0)
-  (1 2 4 0)
-  (2 2 2 0)
-  (3 3 2 0)
-  (4 3 4 0)
-  (5 2 2 0)
-  (6 4 4 0)
-  (7 3 2 0)
-  (8 3 3 0)
-  (9 2 2 0)
-  (10 3 2 1)
-  (11 2 2 0)
-  (12 1 4 0)
-  (13 1 1 0)
-  (14 4 4 0)
-  (15 4 4 0)
-  (16 4 4 0)
-  (17 1 2 0)
-  (18 3 3 0)
-  (19 2 2 0)
-  (20 3 2 0)
-  (21 3 2 0)
-  (22 3 3 0)
-  (23 3 1 0)
-  (24 1 3 0)
-  (25 2 2 0)
-  (26 2 4 0)
-  (27 3 3 0)
-  (28 1 3 0)
-  (29 1 2 0)
-  (31 2 4 0)
-  (33 2 4 0)
-  (34 2 4 0)
-  (35 3 3 0)
-  (36 1 4 0)
-  (38 2 3 1)
-  (39 2 1 0)
-  (40 2 3 0)
-  (41 3 2 0)
-  (42 3 2 1)
-  (49 1 1 0)
-  (50 1 1 0)
-  (51 1 2 0)
-  (52 2 2 0)
-  (53 3 4 0)
-  (54 2 3 0)
-  (55 4 4 0)
-  (56 2 2 0)
-  (57 3 3 0)
-  (58 4 3 0)
-  (59 4 4 0)
-  (60 4 2 0)
-  (61 3 2 0)
-  (62 3 3 0)
-  (63 2 3 0)
-  (66 3 2 0)
-  (67 4 4 0)
-  (68 4 4 0)
-  (69 4 4 0)
-  (70 3 4 0)
-  (71 4 4 0)
-  (72 4 3 0)
-  (73 4 3 0)
-  (74 4 4 0))
- (1 "Andoiii" (0 2 3 1) (1 2 2 0))
- (2 "empty"))
+((56fb27e6-1737-4dfc-8dd0-11718897dd78 "empty")
+ (86a63856-9048-49af-ba1d-0c41863eb4f8 "hans")
+ (ef33852f-c897-4149-99ab-dc299e476de9 "Andoiii"))
