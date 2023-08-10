@@ -78,7 +78,7 @@
   "2023-06-26T17:28:43Z"
   "ui: summarize tasks by blocked, awaiting eval, todo, in-progress, done"
   #f
-  ((ready "2023-06-26T17:28:43Z")))
+  ((done "2023-08-10T17:37:59.464339844Z") (ready "2023-06-26T17:28:43Z")))
  (085bf084-a1e3-465f-9fe4-869ba4ea8d34
   10
   "2023-06-26T17:29:09Z"
@@ -568,5 +568,19 @@
    (ready "2023-08-09T00:39:42.607249512Z")
    (started "2023-08-09T00:40:15.543733887Z"))))
 ((56fb27e6-1737-4dfc-8dd0-11718897dd78 "empty")
- (86a63856-9048-49af-ba1d-0c41863eb4f8 "hans")
+ (86a63856-9048-49af-ba1d-0c41863eb4f8
+  "hans"
+  (079ed77f-c48f-41b9-9d0b-e8885102dd19 2 4 0)
+  (085bf084-a1e3-465f-9fe4-869ba4ea8d34 4 3 0)
+  (0b85e081-bc12-4bb6-abbf-3882f9bcc854 3 2 0)
+  (17c31570-e2c3-4dab-a89e-0468017331ab 3 2 0)
+  (451bfe2c-9a15-4453-befd-c881290eab63 3 2 0)
+  (58a5e7df-cf78-401d-a4b9-2defb60d2777 3 3 0)
+  (64cb7cd2-4beb-4f28-b276-a4c5df1f9a34 2 3 0)
+  (72558780-aaad-447d-9c5c-35eaf194e79c 4 4 0)
+  (7546fa1c-7341-4fb0-b894-aaaebb12b422 4 4 0)
+  (ae6a6c76-0bdf-473b-83be-10f46b3a5387 3 2 0)
+  (d43d475f-acbd-4b03-a450-4902e45e3ff0 3 3 0)
+  (de9a134b-6b67-47ac-b395-8e5008964f2a 3 3 0)
+  (fe37c7f9-9347-4b28-a0fd-7f3fe4bef36c 3 2 0))
  (ef33852f-c897-4149-99ab-dc299e476de9 "Andoiii"))
