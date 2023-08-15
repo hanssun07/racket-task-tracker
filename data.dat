@@ -542,6 +542,7 @@
   "model+fix: unique unchanging ids for tasks"
   #f
   ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
+   (done "2023-08-15T15:41:15.695458008Z")
    (ready "2023-08-02T00:48:45.228885254Z")
    (started "2023-08-08T16:36:21.3460625Z")))
  (659f483a-e94a-46a7-8280-7f2a3325388c
@@ -558,7 +559,8 @@
   "ui+code: commandline reader, parser a la shell, racket/cmdline"
   #f
   ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
-   (ready "2023-08-04T16:32:21.734737305Z")))
+   (ready "2023-08-04T16:32:21.734737305Z")
+   (started "2023-08-15T15:41:35.518900146Z")))
  (311517e4-6a57-4866-96a8-db255853d7cd
   74
   "2023-08-09T00:39:42.607249512Z"
