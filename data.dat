@@ -580,7 +580,15 @@
   "2023-08-11T16:23:48.79993042Z"
   "meta: autocheck updates, provide time-since-last-sync in scripts"
   #f
-  ((ready "2023-08-11T16:23:48.79993042Z"))))
+  ((ready "2023-08-11T16:23:48.79993042Z")))
+ (0c246de8-137c-4fc7-891a-08e6b3936636
+  77
+  "2023-08-30T01:54:53.861846436Z"
+  "autodoc: first-class annotations"
+  #f
+  ((assigned 86a63856-9048-49af-ba1d-0c41863eb4f8)
+   (ready "2023-08-30T01:54:53.861846436Z")
+   (started "2023-08-30T01:55:00.791133789Z"))))
 ((56fb27e6-1737-4dfc-8dd0-11718897dd78 "empty")
  (86a63856-9048-49af-ba1d-0c41863eb4f8
   "hans"
@@ -588,6 +596,7 @@
   (079ed77f-c48f-41b9-9d0b-e8885102dd19 2 4 0)
   (085bf084-a1e3-465f-9fe4-869ba4ea8d34 4 3 0)
   (0b85e081-bc12-4bb6-abbf-3882f9bcc854 3 2 0)
+  (0c246de8-137c-4fc7-891a-08e6b3936636 4 2 0)
   (164d0f87-5be8-4a54-a1e9-b20e91553a47 3 3 0)
   (17c31570-e2c3-4dab-a89e-0468017331ab 3 2 0)
   (1ca656c6-3900-48a8-b96f-a226fef1abe3 3 2 0)
